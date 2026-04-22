@@ -40,4 +40,3 @@ Che Romani is an underground hip-hop artist associated with the internet rap sce
 ## See Also
 
 - [[8xhr_bleood]]
-- [[fr7z_Essential Chinese Characters]]
