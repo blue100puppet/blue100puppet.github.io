@@ -6,6 +6,12 @@
       <description>Last 10 notes on Blue Puppet&#039;s Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>2slimey</title>
+    <link>https://localhost/z158_2slimey</link>
+    <guid>https://localhost/z158_2slimey</guid>
+    <description><![CDATA[ 2slimey Context Related: 8xhr_bleood, pjs4_Che Scene: Underground Sound (UGS), internet/SoundCloud underground Social: Instagram @2slimey__ Overview 2slimey is an underground rapper active in the internet rap scene. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 21:15:00 GMT</pubDate>
+  </item><item>
     <title>Che</title>
     <link>https://localhost/pjs4_Che</link>
     <guid>https://localhost/pjs4_Che</guid>
@@ -59,12 +65,6 @@
     <guid>https://localhost/p8qr_compartmentalization_psychology</guid>
     <description><![CDATA[ Context Understanding how the mind separates thoughts, emotions, and tasks to maintain mental health and efficiency. ]]></description>
     <pubDate>Sun, 19 Apr 2026 12:23:00 GMT</pubDate>
-  </item><item>
-    <title>Move Semantics</title>
-    <link>https://localhost/0u18_move_semantics</link>
-    <guid>https://localhost/0u18_move_semantics</guid>
-    <description><![CDATA[ Context Transferring resources from one object to another without deep copying — “pilfering” pointers, buffers, file handles. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 04:27:35 GMT</pubDate>
   </item>
     </channel>
   </rss>
