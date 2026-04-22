@@ -1,6 +1,8 @@
 ---
 title: Che
 date: 2026-04-22 16:55:00
+aliases: []
+tags: [artist, hip-hop, underground, digicore]
 ---
 
 # Che
