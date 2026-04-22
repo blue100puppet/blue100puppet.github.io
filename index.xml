@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Blue Puppet&#039;s Garden</title>
+      <link>https://localhost</link>
+      <description>Last 10 notes on Blue Puppet&#039;s Garden</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Home</title>
+    <link>https://localhost/</link>
+    <guid>https://localhost/</guid>
+    <description><![CDATA[ Obsidian Vault Welcome to my digital garden. Topics Chinese Systemd Machine Learning Anime . ]]></description>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 GMT</pubDate>
+  </item><item>
+    <title>Black Swan: Obsession and the Price of Perfection</title>
+    <link>https://localhost/2q1n_black_swan</link>
+    <guid>https://localhost/2q1n_black_swan</guid>
+    <description><![CDATA[ Black Swan: Obsession and the Price of Perfection Context Related: 7hjk_kon_cycle Prerequisites: None — start here Next: 7hjk_kon_cycle Black Swan is a 2010 American psychological horror-thriller film directed by Darren Aronofsky, starring Natalie Portman, Mila Kunis, and Vincent Cassel. ]]></description>
+    <pubDate>Mon, 20 Apr 2026 16:10:00 GMT</pubDate>
+  </item><item>
+    <title>Magnetic Rose: Haunting Memories of Love and Loss</title>
+    <link>https://localhost/3t4g_magnetic_rose</link>
+    <guid>https://localhost/3t4g_magnetic_rose</guid>
+    <description><![CDATA[ Magnetic Rose: Haunting Memories of Love and Loss Context Related: 7hjk_kon_cycle Prerequisites: None — start here Next: 7hjk_kon_cycle Magnetic Rose is a 1995 science fiction horror short film, the first of three shorts comprising Katsuhiro Otomo’s anthology film Memories (based on stories by Otomo... ]]></description>
+    <pubDate>Mon, 20 Apr 2026 16:10:00 GMT</pubDate>
+  </item><item>
+    <title>Satoshi Kon &amp; Psychological Horror: Connected Works</title>
+    <link>https://localhost/7hjk_kon_cycle</link>
+    <guid>https://localhost/7hjk_kon_cycle</guid>
+    <description><![CDATA[ Satoshi Kon &amp; Psychological Horror: Connected Works Context Related: k9p2_perfect_blue p6m7_paprika 2q1n_black_swan 8xhr_paranoia_agent 3t4g_magnetic_rose Prerequisites: None — start here Next: None (standalone) This map connects the major works exploring psychological reality-collapse, identity... ]]></description>
+    <pubDate>Mon, 20 Apr 2026 16:10:00 GMT</pubDate>
+  </item><item>
+    <title>Paranoia Agent: Society&#039;s Collective Nervous Breakdown</title>
+    <link>https://localhost/8xhr_paranoia_agent</link>
+    <guid>https://localhost/8xhr_paranoia_agent</guid>
+    <description><![CDATA[ Paranoia Agent: Society’s Collective Nervous Breakdown Context Related: 7hjk_kon_cycle Prerequisites: None — start here Next: 7hjk_kon_cycle Paranoia Agent is a 2004 Japanese psychological thriller anime television series created and directed by Satoshi Kon, who wrote and directed every episode. ]]></description>
+    <pubDate>Mon, 20 Apr 2026 16:10:00 GMT</pubDate>
+  </item><item>
+    <title>Perfect Blue: A Masterpiece of Psychological Horror and Identity</title>
+    <link>https://localhost/k9p2_perfect_blue</link>
+    <guid>https://localhost/k9p2_perfect_blue</guid>
+    <description><![CDATA[ Perfect Blue: A Masterpiece of Psychological Horror and Identity Context Related: 7hjk_kon_cycle Prerequisites: None — start here Next: 7hjk_kon_cycle Perfect Blue is a 1997 Japanese animated psychological horror film directed by Satoshi Kon, based on the novel “Perfect Blue: Complete Metamorphosis”... ]]></description>
+    <pubDate>Mon, 20 Apr 2026 16:10:00 GMT</pubDate>
+  </item><item>
+    <title>Paprika: Dreams Colliding with Reality</title>
+    <link>https://localhost/p6m7_paprika</link>
+    <guid>https://localhost/p6m7_paprika</guid>
+    <description><![CDATA[ Paprika: Dreams Colliding with Reality Context Related: 7hjk_kon_cycle Prerequisites: None — start here Next: 7hjk_kon_cycle Paprika is a 2006 Japanese animated science fiction psychological thriller film directed by Satoshi Kon, based on the 1993 novel by Yasutaka Tsutsui. ]]></description>
+    <pubDate>Mon, 20 Apr 2026 16:10:00 GMT</pubDate>
+  </item><item>
+    <title>Compartmentalization (Psychology)</title>
+    <link>https://localhost/p8qr_compartmentalization_psychology</link>
+    <guid>https://localhost/p8qr_compartmentalization_psychology</guid>
+    <description><![CDATA[ Context Understanding how the mind separates thoughts, emotions, and tasks to maintain mental health and efficiency. ]]></description>
+    <pubDate>Sun, 19 Apr 2026 12:23:00 GMT</pubDate>
+  </item><item>
+    <title>Move Semantics</title>
+    <link>https://localhost/0u18_move_semantics</link>
+    <guid>https://localhost/0u18_move_semantics</guid>
+    <description><![CDATA[ Context Transferring resources from one object to another without deep copying — “pilfering” pointers, buffers, file handles. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 04:27:35 GMT</pubDate>
+  </item><item>
+    <title>Template Metaprogramming (TMP)</title>
+    <link>https://localhost/84ey_tmp</link>
+    <guid>https://localhost/84ey_tmp</guid>
+    <description><![CDATA[ Context Using templates to compute types and values at compile time. Turing-complete. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 04:27:35 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
