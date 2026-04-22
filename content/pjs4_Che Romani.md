@@ -1,9 +1,9 @@
 ---
-title: Che Romani
+title: Che
 date: 2026-04-22 16:55:00
 ---
 
-# Che Romani
+# Che
 
 ## Context
 
@@ -11,7 +11,7 @@ Underground rapper active on the internet/underground scene. Profiled on Last.fm
 
 ## Overview
 
-Che Romani is an underground hip-hop artist associated with the internet rap scene. Tracks appear on Last.fm alongside beat-making tutorials and type beats, indicating a presence in the SoundCloud/underground ecosystem.
+Che is an underground hip-hop artist associated with the internet rap scene. Tracks appear on Last.fm alongside beat-making tutorials and type beats, indicating a presence in the SoundCloud/underground ecosystem.
 
 ## Main Content
 
@@ -19,8 +19,16 @@ Che Romani is an underground hip-hop artist associated with the internet rap sce
 
 | Track | Notes |
 |-------|-------|
-| Yayo & Hugo | Listed on Last.fm as a top track |
-| cheromani - number_uh huh (full song) | Listed on Last.fm |
+| MANNEQUIN | Listed on Last.fm |
+| Promoting Violence | Listed on Last.fm |
+| Million Dollar Mansion | Listed on Last.fm |
+| Miley Cyrus | Listed on Last.fm |
+| BA$$ | Listed on Last.fm |
+| DIOR LEOPARD | Listed on Last.fm |
+| Pizza Time | Listed on Last.fm |
+| EARDRUMMER | Listed on Last.fm |
+| Kittens | Listed on Last.fm |
+| agenda | Listed on Last.fm |
 
 ### Style & Influences
 
@@ -30,7 +38,7 @@ Che Romani is an underground hip-hop artist associated with the internet rap sce
 
 ### Links
 
-- [Last.fm](https://www.last.fm/music/Che+Romani)
+- [Last.fm](https://www.last.fm/music/Che)
 
 ## Remarks
 
