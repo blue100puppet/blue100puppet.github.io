@@ -6,6 +6,12 @@
       <description>Last 10 notes on Blue Puppet&#039;s Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Che Romani</title>
+    <link>https://localhost/pjs4_Che-Romani</link>
+    <guid>https://localhost/pjs4_Che-Romani</guid>
+    <description><![CDATA[ Che Romani Context Underground rapper. (Fill in scene, location, era.) Overview Che Romani is an underground hip-hop artist. ]]></description>
+    <pubDate>Wed, 22 Apr 2026 16:55:00 GMT</pubDate>
+  </item><item>
     <title>Home</title>
     <link>https://localhost/</link>
     <guid>https://localhost/</guid>
@@ -58,12 +64,6 @@
     <link>https://localhost/0u18_move_semantics</link>
     <guid>https://localhost/0u18_move_semantics</guid>
     <description><![CDATA[ Context Transferring resources from one object to another without deep copying — “pilfering” pointers, buffers, file handles. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 04:27:35 GMT</pubDate>
-  </item><item>
-    <title>Template Metaprogramming (TMP)</title>
-    <link>https://localhost/84ey_tmp</link>
-    <guid>https://localhost/84ey_tmp</guid>
-    <description><![CDATA[ Context Using templates to compute types and values at compile time. Turing-complete. ]]></description>
     <pubDate>Sat, 18 Apr 2026 04:27:35 GMT</pubDate>
   </item>
     </channel>
